@@ -30,7 +30,7 @@ jobs:
         sed -i "s|<!-- Generated File Link M3U8 -->.*|<!-- Generated File Link M3U8 --> [View M3U8 File](${file_link1})|" README.md
     - name: Commit changes
       env:
-        REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
