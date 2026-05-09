@@ -16,6 +16,7 @@ https://zilong7728.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
 <!-- Last Run Time --> 2026-05-09 14:19:36 CST
 ## 🔗Generated File Link
+
 <!-- Generated File Link --> [View Generated File](https://github.catvod.com/https://github.com/alanxie1999/IPTV/blob/main/best_sorted.m3u)
 
 <!-- Generated File Link m3u8 --> [View Generated File](https://github.catvod.com/https://github.com/alanxie1999/IPTV/blob/main/best_sorted.m3u8)
