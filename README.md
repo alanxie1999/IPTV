@@ -16,7 +16,7 @@
 ## 📺️TV station list
 https://alanxie1999.github.io/IPTV/
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-07-06 16:24:07 CST
+<!-- Last Run Time --> 2026-07-06 23:36:13 CST
 ## 🔗Generated File Link
 
 <!-- Generated File Link --> [View Generated File](https://github.catvod.com/https://github.com/alanxie1999/IPTV/blob/main/best_sorted.m3u)
